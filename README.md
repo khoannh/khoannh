@@ -2,7 +2,7 @@
 
 🎓 I'm a software engineering student at FPT University in Vietnam.  
 🎯 I spend most of my time learning and studying Java.  
-🎨 I love programming and football.  
+🎨 I love programming and football/soccer.  
 💡 "All roads lead to Rome" — my mindset in learning and growing every day.
 
 ---
